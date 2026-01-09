@@ -2,6 +2,8 @@
   "id": "070-temple-dungeon-room-free",
   "title": "070 Temple dungeon room Free",
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/D20dragon/070-Temple-dungeon-room-Free/main/module.json",
+"download": "https://github.com/D20dragon/070-Temple-dungeon-room-Free/releases/download/1.0.0/070-temple-dungeon-room-free.zip",
   "compatibility": {
     "minimum": "10",
     "verified": "13"
